@@ -1,7 +1,8 @@
 # FLAPI
 Filmlight API (FLAPI) for Baselight
 
-More info on FLAPI at https://www.hdhead.com/?p=919. 
+More info on FLAPI at https://www.hdhead.com/?p=919.
+Video tutorial on connecting to Baselight: https://www.youtube.com/watch?v=wFU13DIW0QY
 
 getflapi.py
 
